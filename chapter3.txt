@@ -1,1 +1,1 @@
-Hey, I'm a full-stack developer.
+Hey, I'm a react developer.
